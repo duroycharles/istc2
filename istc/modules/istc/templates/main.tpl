@@ -2,4 +2,5 @@
 Nouveau texte ici
 BLABLA
 qderdrf
+Max est un BG
 {$MAIN}
